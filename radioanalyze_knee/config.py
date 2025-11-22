@@ -17,7 +17,7 @@ class Config:
     target_spacing: tuple = (0.7, 0.365, 0.365)
 
     batch_size: int = 1
-    epochs: int = 50
+    epochs: int = 200
     val_split: int = 30
     base_lr: float = 1e-4
 
